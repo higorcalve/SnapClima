@@ -2,3 +2,4 @@ Open Wheater API Key
 b9e68e43b8b661cf25c3ed779f5f6595
 
 Palavra1: perrengue
+Palavra2: nunca
