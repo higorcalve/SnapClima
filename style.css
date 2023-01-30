@@ -99,6 +99,10 @@ body {
     margin-top: 30px;
 }
 
+.current-temperature__description::first-letter{
+    text-transform: uppercase;
+}
+
 .current-temperature__info-label {
     margin-top: 15px;
     color: #a2a2be;
